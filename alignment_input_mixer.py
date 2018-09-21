@@ -1,4 +1,5 @@
 ### Boas Pucker ###
+### Hanna Schilbert ###
 ### bpucker@cebitec.uni-bielefeld.de ###
 ## v0.1 ###
 
