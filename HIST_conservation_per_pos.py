@@ -2,7 +2,7 @@
 ### Hanna Schilbert ###
 ### bpucker@cebitec.uni-bielefeld.de ###
 ### v0.1 ###
-
+ 
 __usage__ = """
 	python conservation_per_pos.py
 	--in <MULTIPLE_FASTA_FILE_WITH_PEPTIDE_SEQ_INPUT>
