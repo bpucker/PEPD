@@ -1,7 +1,7 @@
 ### Boas Pucker ###
 ### Hanna Schilbert ###
 ### bpucker@cebitec.uni-bielefeld.de ###
-### v0.1 ###
+### v0.1 ### 
 
 __usage__ = """	
 	python run_BUSCO_across_specs.py
