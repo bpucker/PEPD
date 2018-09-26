@@ -2,7 +2,7 @@
 ### Hanna Schilbert ###
 ### bpucker@cebitec.uni-bielefeld.de ###
 ### v0.1 ###
-
+ 
 __usage__ = """
 	pyhton alignment_sensitivity_check.py
 	--in <NAME_OF_INPUT_FILE>
