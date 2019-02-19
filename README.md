@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/141014963.svg)](https://zenodo.org/badge/latestdoi/141014963)
+
+
 # PEPD
 
 Reference:
